@@ -1,0 +1,13 @@
+	.d{
+    text-align: center;
+    overflow: hidden; 
+}
+
+.d>div {
+    width: 31%;
+    padding-bottom: 31%;
+    margin: 1%;
+    border-radius: 10%;
+    float: left;
+    background-color: orange;
+}
